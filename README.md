@@ -1,0 +1,2 @@
+Minecraft Weapon Analysis is a Java application that collects, cleans, analyzes, and visualizes Minecraft item data using a third-party API. The project focuses on comparing item durability and enchantability to explore how these properties differ across weapon and tool categories.
+The application retrieves item information from the BlocksItems API, processes the returned data, exports records to CSV files, and generates charts to make comparisons easier to understand.
